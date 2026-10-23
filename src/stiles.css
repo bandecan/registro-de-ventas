@@ -1,0 +1,47 @@
+body{
+    background-color: lightblue;
+    display: grid;
+    place-content: center;
+}
+
+#titulo{
+    color: slategray;
+    margin-bottom: 20px;
+}
+
+#nombre{
+    border-radius: 20px;
+    border-color: black;
+    margin-bottom: 20px;
+}
+
+#opcion{
+    border-radius: 20px;
+    border-color: black;
+    margin-bottom: 20px;
+}
+
+#cantidad{
+    border-radius: 20px;
+    border-color: black;
+    margin-bottom: 20px;
+}
+
+#estado{
+    border-radius: 20px;
+    border-color: black;
+    margin-bottom: 20px;
+}
+
+#enviar{
+    border-radius: 5px;
+    border-color: black;
+}
+
+#adicion{
+    #borde{
+    border-color: black;
+    color: gray;
+    background-color: gainsboro;
+    }
+}
